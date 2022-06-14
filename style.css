@@ -1,0 +1,147 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(239, 239, 204);
+}
+
+.navbar-brand{
+    font-size: 40px;
+    height: 10vh;
+}
+
+#boton-carrito{
+    font-size: 35px;
+    width: 170px;
+}
+
+main{
+    display: grid;
+    gap: 15px;
+    grid-template-columns: 1fr 5fr;
+}
+
+.container{
+    display: flex;
+    justify-content: space-around;
+    border-left: 1px solid rgb(179, 163, 15);
+    height: 100%;
+}
+
+.btn-group-vertical{
+    height: 90vh;
+    padding: 20px;
+    position: sticky;
+    left: 0;
+}
+
+.boton-categoria{
+    background-color: rgb(226, 219, 232);
+    color: black;
+    font-size: 25px;
+    margin: 30px 0px;
+    
+}
+.card{
+    border-radius: 10px;
+    max-width: 350px;
+    height: 390px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+}
+
+.card div{
+    display: flex;
+    align-items:center;
+    justify-content: center;
+}
+
+.imgComida{
+    width: 200px;
+    height: 200px;
+}
+
+.card-header h5{
+    color: black;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.card-body{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    color: black;
+}
+
+.modal-header{
+    color: white;
+}
+
+.modal-body{
+    background-color: rgb(239, 239, 204);
+}
+
+.encabezado{
+    display: grid;
+    grid-template-columns: 1fr 2fr 1fr 1fr 1fr 1fr;
+    height: 30px;
+    
+    border-bottom: 1px solid rgb(179, 163, 15);;
+}
+
+.encabezado p{
+    margin: 0px 15px 0px 15px;
+    text-align:left;
+}
+
+.card-shop{
+    display: grid;
+    grid-template-columns: 1fr 2fr 1fr 1fr 1fr 1fr;
+    margin: 20px 0 20px 0;
+}
+
+.img-shop{
+    width: 100px;
+    height: 100px;
+}
+
+.cantidad{
+    padding: 5px 20px;
+    background-color: beige;
+}
+
+.aumentar{
+    width: 20px;
+}
+
+.disminuir{
+    width: 20px;
+}
+
+.botonEliminar{
+    width: 30px;
+    height: 30px;
+}
+
+.modal-footer{
+    background-color: rgb(239, 239, 204);
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#total{
+    font-size: 35px;
+    font-weight:800;
+}
+
+
+
+
+
+

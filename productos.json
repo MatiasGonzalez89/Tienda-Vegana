@@ -1,0 +1,113 @@
+[{
+    "id": 1,
+    "nombre": "medallones de lentejas y puerro",
+    "precio": 350,
+    "cantidad": 1,
+    "categoria": "medallones",
+    "imagen":"./imagenes/lentejasypuerro.jfif"
+},
+{
+    "id": 2,
+    "nombre": "medallones de garbanzos y zapallo",
+    "precio": 350,
+    "cantidad": 1,
+    "categoria": "medallones",
+    "imagen":"./imagenes/garbanzoZapallo.jfif"
+},
+{
+    "id": 3,
+    "nombre": "medallones de arvejas y brocoli",
+    "precio": 350,
+    "cantidad": 1,
+    "categoria": "medallones",
+    "imagen":"./imagenes/hamburguesa-arveja-y-brocoli.jpg"
+},
+{
+    "id": 4,
+    "nombre": "milanesas de seitan",
+    "precio": 500,
+    "cantidad": 1,
+    "categoria": "seitan",
+    "imagen":"./imagenes/milanesa-de-seitan.jpg"
+},
+{
+    "id": 5,
+    "nombre": "matambre de seitan",
+    "precio": 550,
+    "cantidad": 1,
+    "categoria": "seitan",
+    "imagen":"./imagenes/matambre.jpg"
+},
+{
+    "id": 6,
+    "nombre": "empanadas de brocoli",
+    "precio": 600,
+    "cantidad": 1,
+    "categoria": "empanadas",
+    "imagen":"./imagenes/empanada-de-brocoli.jpg"
+},
+{
+    "id": 7,
+    "nombre": "empanadas de calabaza",
+    "precio": 600,
+    "cantidad": 1,
+    "categoria": "empanadas",
+    "imagen":"./imagenes/empanada-de-calabaza.jpg"
+},
+{
+    "id": 8,
+    "nombre": "empanadas de espinaca",
+    "precio": 650,
+    "cantidad": 1,
+    "categoria": "empanadas",
+    "imagen":"./imagenes/empanadas-de-espinaca.jpg"
+},
+{
+    "id": 9,
+    "nombre": "ensalada con arandanos",
+    "precio": 350,
+    "cantidad": 1,
+    "categoria": "ensalada",
+    "imagen":"./imagenes/ensalada-de-arandanos.png"
+},
+{
+    "id": 10,
+    "nombre": "ensalada con habas",
+    "precio": 350,
+    "cantidad": 1,
+    "categoria": "ensalada",
+    "imagen":"./imagenes/ensalada-de-habas.png"
+},
+{
+    "id": 11,
+    "nombre": "ensalada silvestre",
+    "precio": 350,
+    "cantidad": 1,
+    "categoria": "ensalada",
+    "imagen":"./imagenes/ensalada-silvestre.png"
+},
+{
+    "id": 12,
+    "nombre": "budin de banana",
+    "precio": 350,
+    "cantidad": 1,
+    "categoria": "budin",
+    "imagen":"./imagenes/budin-banana.jpg"
+},
+{
+    "id": 13,
+    "nombre": "budin de zanahorias",
+    "precio": 350,
+    "cantidad": 1,
+    "categoria": "budin",
+    "imagen":"./imagenes/budin-carrot.jpg"
+},
+{
+    "id": 14,
+    "nombre": "budin de limon",
+    "precio": 350,
+    "cantidad": 1,
+    "categoria": "budin",
+    "imagen":"./imagenes/budin-limon.jpg"
+}
+]
